@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700);
+
+body {
+  background-color: #FFFAFA;
+}
+
+.well {
+  background-color: #;
+}
+
+.container-fluid {
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 5%;
+  font-size: 1.2em;
+  font-family: 'Cinzel', serif
+}
+  
+.footer {
+  font-size: 1.2em;    
+  }
+  
+  
+a,a:active {
+  text-decoration: none;
+  }
+
+
